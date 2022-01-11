@@ -1,0 +1,107 @@
+#SEC2{
+text-align: center;
+}
+
+img{
+    height:300px;
+    width:300px;
+border-radius: 10px;
+    border:dotted;
+    border-width: medium;
+        text-align: center;
+}
+body{
+    text-align: center;
+    
+}
+
+#SEC1{
+    border: solid;
+    border-color: black;
+    border-width:5px; 
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(91,87,154,1) 28%, rgba(255,255,255,1) 42%, rgba(255,255,255,1) 45%, rgba(255,255,255,1) 48%, rgba(255,255,255,1) 51%, rgba(255,255,255,1) 54%, rgba(255,255,255,1) 57%, rgba(255,255,255,1) 61%, rgba(154,42,69,1) 88%, rgba(121,9,9,1) 100%)
+    
+}
+#123{
+font-size:20px;
+}
+
+#1{
+    font-size:20px;
+}
+#hobbies{
+    font-size:15px; 
+     background-color: chartreuse;
+}
+
+.button{float: right;
+    color: #fff;    
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;}
+
+.my{    float: right;
+    color: #fff;    
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;}
+
+#0{
+font-family: fantasy;
+    
+}
+
+#98{
+ height:200px;
+    width:200px;
+border-radius: 100px;
+    border:dotted;
+    border-width: medium;
+        text-align: center;   
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#ha{
+  background-color: black;
+    border: solid;
+    border-width: medium;
+    border-color:white;
+    border-radius: 50px;
+    
+}
+
+
+.button{
+    
+}
+#WIM{
+background-color: aqua;
+}
+
+#dream{
+    background-color: chartreuse;
+}
+
+#food{
+    background-color: aqua;
+}
+
+#hobby{
+   background-color: chartreuse;
+}
+
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+
